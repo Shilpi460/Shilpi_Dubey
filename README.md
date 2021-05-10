@@ -16,10 +16,10 @@ This was a case study where I have to explore Cyclistic, a bike share company in
 From these insights, I have to design a new marketing strategy to convert casual riders into annual members.
 
 ##### Deliverables for case study:
-1.A clear statement of the business task.
-2.A description of all data sources used.
-3.Documentation of any cleaning or manipulation of data.
-4.A summary of your analysis Supporting visualizations and key findings.
+1.A clear statement of the business task.<br>
+2.A description of all data sources used.<br>
+3.Documentation of any cleaning or manipulation of data.<br>
+4.A summary of your analysis Supporting visualizations and key findings.<br>
 
 # [Project 5: Journalists death analysis](https://github.com/Shilpi460/Journalists-death-analysis)
 Journalism is an industry which works day and night to gather information, assess it and provide correct information to the public in the form of news and writings.
