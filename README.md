@@ -1,4 +1,4 @@
-# Shilpi_Dubey
+# Projects
 
 # [Project 1: Prediction using supervised machine learning](https://github.com/Shilpi460/Prediction-using-Supervised-ML)
 The task was to perform machine learning to predict the percentage of a student based on the number of study hours and calculate the predicted score if a student studies for 9.25 hours/day. This task involved linear regression.
